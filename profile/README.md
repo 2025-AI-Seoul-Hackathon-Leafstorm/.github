@@ -115,6 +115,6 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
 # Reposistories
 |Name|link|
 |---|---|
-|Production|?|
+|Production|https://main.d27m2xlevtffgw.amplifyapp.com/|
 |Frontend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Frontend|
 |Backend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Backend|
