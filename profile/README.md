@@ -79,6 +79,12 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
       <a href="https://aws.amazon.com/"><img height="26px" alt="Icon AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white"/></a>
     </td>
   </tr>
+   <tr>
+    <td>Upstage API</td>
+    <td>
+      <a>Document Parsing</a>
+    </td>
+  </tr>
 </table>
 
 # Members
@@ -110,5 +116,5 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
 |Name|link|
 |---|---|
 |Production|?|
-|Frontend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/frontend|
-|Backend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/backend|
+|Frontend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Frontend|
+|Backend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Backend|
