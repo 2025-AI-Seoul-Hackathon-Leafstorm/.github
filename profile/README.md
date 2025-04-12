@@ -2,7 +2,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <img width="120" height="120" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="Leafstorm" src="https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/.github/blob/main/Icon.png" href="/"/>
-      <h1><a href="/">2025 @AI Seoul Hackathon: Team Leafstorm</a></h1>
+      <h1><a href="https://main.d27m2xlevtffgw.amplifyapp.com/">2025 @AI Seoul Hackathon: Team Leafstorm</a></h1>
       <p>Clarity | Upload. Summarize. Learn smarter~!<br/></p>
     </summary>
   </ul>
