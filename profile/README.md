@@ -14,7 +14,7 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
 
 # Purpose
 #### 🤔 Improve Study Efficiency  
-- Help learners reduce the time required to understand complex materials by generating summaries and guides automatically.
+- Reduce the time learners need to grasp complex materials by providing AI-generated summaries and guidance.
 #### 🙏 Lower the Barrier to Learning  
 - Support learners with low background knowledge by breaking down technical terms and providing contextual explanations.
 #### 👩‍🎓 Personalized Learning Experience  
