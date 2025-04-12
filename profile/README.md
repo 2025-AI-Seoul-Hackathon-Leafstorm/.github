@@ -1,32 +1,63 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <img width="250" height="120" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="Leafstorm" src="https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/.github/blob/main/logo.png" href="/"/>
+      <img width="120" height="120" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="Leafstorm" src="https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/.github/blob/main/Icon.png" href="/"/>
       <h1><a href="/">2025 @AI Seoul Hackathon: Team Leafstorm</a></h1>
-      <p>serviceName | ServiceDescription<br/></p>
+      <p>Clarity | Upload. Summarize. Learn smarter~!<br/></p>
     </summary>
   </ul>
 </div>
 
-# Backgorund
-- tbd
+# Background
+Many students struggle with digesting large amounts of study materials such as PDFs and PowerPoint slides. Manual summarization is time-consuming, and traditional AI models often miss key context or generate summaries that don't match individual learning needs.  
+This project aims to enhance learning efficiency through AI-powered summarization, personalized study guidance, and interactive features.
 
 # Purpose
-#### 🤔 tbd <br/>
-#### 🙏 tbd <br/>
-#### 👩‍🎓 tbd <br/>
-#### 🌏 tbd
+#### 🤔 Improve Study Efficiency  
+- Help learners reduce the time required to understand complex materials by generating summaries and guides automatically.
+#### 🙏 Lower the Barrier to Learning  
+- Support learners with low background knowledge by breaking down technical terms and providing contextual explanations.
+#### 👩‍🎓 Personalized Learning Experience  
+- Offer customized content based on user preferences, interests, and academic levels, enhancing motivation and understanding.
+#### 🌏 Innovation in Education  
+- Contribute to transforming traditional learning methods with AI-driven automation and interactivity.
 
 # MVP
-## 접근성
-- tbd
-## 정확성
-- tbd
-## 효율성
-- tbd
+#### 🔓 Accessibility
+- Web-based interface for uploading study materials (PDF, PPT).
+- Clean UI/UX for seamless upload and result preview.
+#### 🎯 Accuracy
+- Integration with **Upstage API** for precise parcing documants.
+- Extracts essential concepts, keywords, and context-aware summaries.
+#### ⚡ Efficiency
+- Summaries and study guides generated in markdown format.
+- Real-time Q&A for clarification and faster knowledge acquisition.
+- AI-generated quiz questions for review and active recall.
 
 # Service Structure
-1. tbd
+1. **Learning Material Upload**
+   - Supports PDF and PPT.
+   - Optional metadata (subject, topic).
+
+2. **AI Analysis Process**
+   - OCR conversion + text extraction.
+   - Importance-based content ranking.
+   - Keyword extraction and summarization.
+
+3. **Summary & Study Guide Generation**
+   - Outputs core summary + Q&A formatted guide.
+   - Optional: Markdown, slides, or mindmap view.
+
+4. **User Feedback**
+   - Like/dislike rating system.
+   - Request further clarification or explanations.
+
+# Future Expansions
+- Supports advanced academic use cases: thesis (Master’s/Ph.D.), paper analysis, and research summaries.
+- Helps professionals draft business plans, technical proposals, and project reports.
+- Custom mentoring for academic and corporate writing goals.
+- Scalable to support institutions, labs, and enterprise-level documentation needs.
+
 
 # Architecture
 
@@ -41,15 +72,9 @@
     </td>
   </tr>
   <tr>
-    <td>Backend</td>
+    <td>Backend / Infra</td>
     <td>
-      <a href="https://spring.io/"><img height="48px" width="48px" alt="Icon Spring" src="https://skillicons.dev/icons?i=spring"/></a>
-      <a href="https://www.postgresql.org/"><img height="48px" width="48px" alt="Icon PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Infra</td>
-    <td>
+      <a href="https://www.python.org/"><img height="48px" width="48px" alt="Icon Python" src="https://skillicons.dev/icons?i=py"/></a>
       <a href="https://aws.amazon.com/"><img height="26px" alt="Icon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
       <a href="https://aws.amazon.com/"><img height="26px" alt="Icon AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white"/></a>
     </td>
