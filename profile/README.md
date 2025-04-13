@@ -58,8 +58,29 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
 - Custom mentoring for academic and corporate writing goals.
 - Scalable to support institutions, labs, and enterprise-level documentation needs.
 
+# Setup and Installation (Frontend Only)
+```md
+# clone the Frontend repo
+git clone https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Frontend.git
 
-# Architecture
+# move to working dir
+cd Frontend
+
+# move branch to main
+git checkout main
+
+# ensure your node is 20.11.1 to run the project
+node -v
+
+# install package
+npm install
+
+# run project locally
+npm run dev
+```
+
+# Backend Server Architecture
+
 
 # Used Stack
 <table>
@@ -82,7 +103,7 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
    <tr>
     <td>Upstage API</td>
     <td>
-      <a>Document Parsing</a>
+      <a>Document Parsing, Solar-Pro</a>
     </td>
   </tr>
 </table>
@@ -115,6 +136,14 @@ This project aims to enhance learning efficiency through AI-powered summarizatio
 # Reposistories
 |Name|link|
 |---|---|
+|Demo Video|https://youtu.be/gM0C9FnKPOE?si=sPJsPeWct5K6K_mV|
 |Production|https://main.d27m2xlevtffgw.amplifyapp.com/|
 |Frontend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Frontend|
 |Backend|https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/Backend|
+
+# Development Period
+Last updated: 2025-04-13
+
+# License
+- This project is licensed under the MIT license.
+- See the LICENSE file for more details.
