@@ -80,7 +80,7 @@ npm run dev
 ```
 
 # Backend Server Architecture
-
+<img width="650px" alt="BE Architecture" src="https://github.com/2025-AI-Seoul-Hackathon-Leafstorm/.github/blob/main/Architecture.jpeg"/>
 
 # Used Stack
 <table>
