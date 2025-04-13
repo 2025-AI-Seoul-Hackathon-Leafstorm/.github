@@ -115,7 +115,7 @@ npm run dev
         <td><a href="https://github.com/raymond1203"><img width="150" height="150" align="center" alt="raymond1203" src="https://avatars.githubusercontent.com/raymond1203"></a></td>
         <td><a href="https://github.com/inhyuk0102"><img width="150" height="150" align="center" alt="inhyuk0102" src="https://avatars.githubusercontent.com/inhyuk0102"></a></td>
         <td><a href="https://github.com/luna111122"><img width="150" height="150" align="center" alt="luna111122" src="https://avatars.githubusercontent.com/luna111122"></a></td>
-        <td><a href="https://github.com/github"><img width="150" height="150" align="center" alt="github" src="https://avatars.githubusercontent.com/github"></a></td>
+        <td><a href="https://github.com/okim7979"><img width="150" height="150" align="center" alt="okim7979" src="https://avatars.githubusercontent.com/okim7979"></a></td>
       </tr>
       <tr>
         <td align="center">Full-stack</td>
