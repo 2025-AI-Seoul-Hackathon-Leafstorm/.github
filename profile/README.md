@@ -100,12 +100,6 @@ npm run dev
       <a href="https://aws.amazon.com/"><img height="26px" alt="Icon AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white"/></a>
     </td>
   </tr>
-   <tr>
-    <td>Upstage API</td>
-    <td>
-      <a>Document Parsing, Solar-Pro</a>
-    </td>
-  </tr>
 </table>
 
 # Members
